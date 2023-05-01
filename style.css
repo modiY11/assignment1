@@ -1,0 +1,117 @@
+body{
+  background-color: #FFF4EA;
+}
+
+@media (max-width: 575.98px) {
+  
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  
+}
+
+
+@media (min-width: 992px) {
+  
+}
+
+ul{
+  list-style-type:none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFF4EA;
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: #8F95C3;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: #fae6d4;
+}
+
+.m1{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #ffffff;
+}
+
+.m2{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  color: #77547F;
+}
+
+h1{
+  font-size: 50px;
+}
+
+#info, #projects, #ACHIEVEMENTS, #HOBBIES{
+  margin: 0;
+  padding: 16px;
+  background-color: #77547F;
+}
+
+#edu{
+  padding: 16px;
+  background: transparent;
+}
+
+#projects{
+  text-align: center;
+}
+
+.menu{
+  height: 25px;
+  width: 50px;
+}
+
+.proj{
+  height:250px;
+  width:300px;
+}
+
+#contact{
+  padding: 50px;
+  background-color: #c0aec9;
+  text-align: center;
+}
+
+.con{
+  height: 60px;
+  width: 61px;
+}
+
+p{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+.photo{
+  height:350px;
+  width:300px;
+}
+
+.photoo{
+  text-align: center;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
